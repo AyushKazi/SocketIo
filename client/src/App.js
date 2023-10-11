@@ -66,6 +66,7 @@ function App() {
           marginTop: "80px",
         }}
       />
+      <button>Hello</button>
       <button
         onClick={handleSendMessage}
         style={{
